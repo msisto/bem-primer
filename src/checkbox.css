@@ -1,3 +1,15 @@
 .checkbox {
+  /* no styles */
   appearance: none;
+}
+.checkbox:hover {
+  /* no styles */
+}
+.checkbox:active {
+  /* no styles */
+}
+
+.checkbox--disabled,
+.checkbox:disabled {
+  /* no styles */
 }
