@@ -18,13 +18,18 @@
      -moz-appearance: none;
           appearance: none;
 }
+.checkbox--hover,
 .checkbox:hover {
   /* no styles */
 }
+.checkbox--active,
 .checkbox:active {
   /* no styles */
 }
-
+.checkbox--checked,
+.checkbox:checked {
+  /* no styles */
+}
 .checkbox--disabled,
 .checkbox:disabled {
   /* no styles */
@@ -67,13 +72,18 @@
      -moz-appearance: none;
           appearance: none;
 }
+.radio--hover,
 .radio:hover {
   /* no styles */
 }
+.radio--active,
 .radio:active {
   /* no styles */
 }
-
+.radio--checked,
+.radio:checked {
+  /* no styles */
+}
 .radio--disabled,
 .radio:disabled {
   /* no styles */
