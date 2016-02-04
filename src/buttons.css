@@ -1,0 +1,14 @@
+.button {
+  /* no styles */
+}
+.button:hover {
+  /* no styles */
+}
+.button:active {
+  /* no styles */
+}
+
+.button--disabled,
+.button:disabled {
+  /* no styles */
+}

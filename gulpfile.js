@@ -1,4 +1,9 @@
-var gulp = require('gulp');
+var gulp    = require('gulp');
+var postcss = require('gulp-postcss');
+var cssnext = require("gulp-cssnext")
 
 gulp.task('default', function() {
+  gulp.src("./src/styles.css")
+    .pipe(cssnext())
+    .pipe(gulp.dest("./dist"))
 });
