@@ -29,6 +29,23 @@
 .checkbox:disabled {
   /* no styles */
 }
+.radio {
+  /* no styles */
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+.radio:hover {
+  /* no styles */
+}
+.radio:active {
+  /* no styles */
+}
+
+.radio--disabled,
+.radio:disabled {
+  /* no styles */
+}
 .select {
   /* no styles */
   -webkit-appearance: none;
@@ -44,5 +61,33 @@
 
 .select--disabled,
 .select:disabled {
+  /* no styles */
+}
+.text-input {
+  /* no styles */
+}
+.text-input:hover {
+  /* no styles */
+}
+.text-input:active {
+  /* no styles */
+}
+
+.text-input--disabled,
+.text-input:disabled {
+  /* no styles */
+}
+.textarea {
+  /* no styles */
+}
+.textarea:hover {
+  /* no styles */
+}
+.textarea:active {
+  /* no styles */
+}
+
+.textarea--disabled,
+.textarea:disabled {
   /* no styles */
 }
