@@ -2,13 +2,18 @@
   /* no styles */
   appearance: none;
 }
+.checkbox--hover,
 .checkbox:hover {
   /* no styles */
 }
+.checkbox--active,
 .checkbox:active {
   /* no styles */
 }
-
+.checkbox--checked,
+.checkbox:checked {
+  /* no styles */
+}
 .checkbox--disabled,
 .checkbox:disabled {
   /* no styles */
