@@ -1,0 +1,14 @@
+.select {
+  /* no styles */
+}
+.select:hover {
+  /* no styles */
+}
+.select:active {
+  /* no styles */
+}
+
+.select--disabled,
+.select:disabled {
+  /* no styles */
+}
