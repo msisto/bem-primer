@@ -1,0 +1,14 @@
+.text-input {
+  /* no styles */
+}
+.text-input:hover {
+  /* no styles */
+}
+.text-input:active {
+  /* no styles */
+}
+
+.text-input--disabled,
+.text-input:disabled {
+  /* no styles */
+}

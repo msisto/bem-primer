@@ -1,0 +1,14 @@
+.textarea {
+  /* no styles */
+}
+.textarea:hover {
+  /* no styles */
+}
+.textarea:active {
+  /* no styles */
+}
+
+.textarea--disabled,
+.textarea:disabled {
+  /* no styles */
+}
