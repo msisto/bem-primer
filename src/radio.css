@@ -1,0 +1,15 @@
+.radio {
+  /* no styles */
+  appearance: none;
+}
+.radio:hover {
+  /* no styles */
+}
+.radio:active {
+  /* no styles */
+}
+
+.radio--disabled,
+.radio:disabled {
+  /* no styles */
+}
