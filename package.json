@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/msisto/bem-primer/issues"
   },
-  "homepage": "https://github.com/msisto/bem-primer"
+  "homepage": "https://github.com/msisto/bem-primer",
+  "devDependencies": {
+    "gulp-postcss": "^6.0.1"
+  }
 }
