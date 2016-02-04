@@ -13,12 +13,27 @@
   /* no styles */
 }
 .checkbox {
+  /* no styles */
   -webkit-appearance: none;
      -moz-appearance: none;
           appearance: none;
 }
+.checkbox:hover {
+  /* no styles */
+}
+.checkbox:active {
+  /* no styles */
+}
+
+.checkbox--disabled,
+.checkbox:disabled {
+  /* no styles */
+}
 .select {
   /* no styles */
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
 }
 .select:hover {
   /* no styles */
