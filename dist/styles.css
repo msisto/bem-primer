@@ -1,9 +1,18 @@
 .button {
   /* no styles */
 }
+
+.button--hover,
 .button:hover {
   /* no styles */
 }
+
+.button--focus,
+.button:focus {
+  /* no styles */
+}
+
+.button--active,
 .button:active {
   /* no styles */
 }
@@ -18,18 +27,22 @@
      -moz-appearance: none;
           appearance: none;
 }
+
 .checkbox--hover,
 .checkbox:hover {
   /* no styles */
 }
+
 .checkbox--active,
 .checkbox:active {
   /* no styles */
 }
+
 .checkbox--checked,
 .checkbox:checked {
   /* no styles */
 }
+
 .checkbox--disabled,
 .checkbox:disabled {
   /* no styles */
@@ -72,18 +85,22 @@
      -moz-appearance: none;
           appearance: none;
 }
+
 .radio--hover,
 .radio:hover {
   /* no styles */
 }
+
 .radio--active,
 .radio:active {
   /* no styles */
 }
+
 .radio--checked,
 .radio:checked {
   /* no styles */
 }
+
 .radio--disabled,
 .radio:disabled {
   /* no styles */
@@ -94,14 +111,22 @@
      -moz-appearance: none;
           appearance: none;
 }
+
 .select--hover,
 .select:hover {
   /* no styles */
 }
+
+.select--focus,
+.select:focus {
+  /* no styles */
+}
+
 .select--active,
 .select:active {
   /* no styles */
 }
+
 .select--disabled,
 .select:disabled {
   /* no styles */
@@ -109,18 +134,22 @@
 .text-input {
   /* no styles */
 }
+
 .text-input--hover,
 .text-input:hover {
   /* no styles */
 }
+
 .text-input--focus
 .text-input:focus {
   /* no styles */
 }
+
 .text-input--disabled,
 .text-input:disabled {
   /* no styles */
 }
+
 .text-input--valid,
 .text-input:valid {
   /* no styles */
@@ -128,14 +157,17 @@
 .textarea {
   /* no styles */
 }
+
 .textarea--hover,
 .textarea:hover {
   /* no styles */
 }
+
 .textarea--focus
 .textarea:focus {
   /* no styles */
 }
+
 .textarea--disabled,
 .textarea:disabled {
   /* no styles */
