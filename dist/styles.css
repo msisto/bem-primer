@@ -94,13 +94,14 @@
      -moz-appearance: none;
           appearance: none;
 }
+.select--hover,
 .select:hover {
   /* no styles */
 }
+.select--active,
 .select:active {
   /* no styles */
 }
-
 .select--disabled,
 .select:disabled {
   /* no styles */
@@ -108,27 +109,33 @@
 .text-input {
   /* no styles */
 }
+.text-input--hover,
 .text-input:hover {
   /* no styles */
 }
-.text-input:active {
+.text-input--focus
+.text-input:focus {
   /* no styles */
 }
-
 .text-input--disabled,
 .text-input:disabled {
+  /* no styles */
+}
+.text-input--valid,
+.text-input:valid {
   /* no styles */
 }
 .textarea {
   /* no styles */
 }
+.textarea--hover,
 .textarea:hover {
   /* no styles */
 }
-.textarea:active {
+.textarea--focus
+.textarea:focus {
   /* no styles */
 }
-
 .textarea--disabled,
 .textarea:disabled {
   /* no styles */
