@@ -1,13 +1,14 @@
 .textarea {
   /* no styles */
 }
+.textarea--hover,
 .textarea:hover {
   /* no styles */
 }
-.textarea:active {
+.textarea--focus
+.textarea:focus {
   /* no styles */
 }
-
 .textarea--disabled,
 .textarea:disabled {
   /* no styles */
