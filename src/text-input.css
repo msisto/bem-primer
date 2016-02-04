@@ -1,18 +1,22 @@
 .text-input {
   /* no styles */
 }
+
 .text-input--hover,
 .text-input:hover {
   /* no styles */
 }
+
 .text-input--focus
 .text-input:focus {
   /* no styles */
 }
+
 .text-input--disabled,
 .text-input:disabled {
   /* no styles */
 }
+
 .text-input--valid,
 .text-input:valid {
   /* no styles */

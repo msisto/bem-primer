@@ -1,9 +1,18 @@
 .button {
   /* no styles */
 }
+
+.button--hover,
 .button:hover {
   /* no styles */
 }
+
+.button--focus,
+.button:focus {
+  /* no styles */
+}
+
+.button--active,
 .button:active {
   /* no styles */
 }

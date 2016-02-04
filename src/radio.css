@@ -2,18 +2,22 @@
   /* no styles */
   appearance: none;
 }
+
 .radio--hover,
 .radio:hover {
   /* no styles */
 }
+
 .radio--active,
 .radio:active {
   /* no styles */
 }
+
 .radio--checked,
 .radio:checked {
   /* no styles */
 }
+
 .radio--disabled,
 .radio:disabled {
   /* no styles */
