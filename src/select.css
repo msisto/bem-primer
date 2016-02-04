@@ -1,5 +1,6 @@
 .select {
   /* no styles */
+  appearance: none;
 }
 .select:hover {
   /* no styles */
