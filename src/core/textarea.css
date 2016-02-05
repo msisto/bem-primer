@@ -1,7 +1,7 @@
 /*
  * Textarea
  */
- 
+
 .textarea {
   /* no styles */
 }
@@ -18,5 +18,15 @@
 
 .textarea--disabled,
 .textarea:disabled {
+  /* no styles */
+}
+
+.textarea--invalid,
+.textarea:invalid {
+  /* no styles */
+}
+
+.textarea--valid,
+.textarea:valid {
   /* no styles */
 }

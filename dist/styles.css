@@ -236,7 +236,7 @@
 /*
  * Textarea
  */
- 
+
 .textarea {
   /* no styles */
 }
@@ -253,6 +253,16 @@
 
 .textarea--disabled,
 .textarea:disabled {
+  /* no styles */
+}
+
+.textarea--invalid,
+.textarea:invalid {
+  /* no styles */
+}
+
+.textarea--valid,
+.textarea:valid {
   /* no styles */
 }
 /*
@@ -338,25 +348,6 @@
   /* no styles */
 }
 /*
- * Tabs
- */
-
-.tabs {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  /* no styles */
-}
-
-.tabs__tab {
-  /* no styles */
-}
-
-.tabs__tab--active {
-  /* no styles */
-}
-/*
  * Modal
  */
 
@@ -389,5 +380,24 @@
 }
 
 .modal__close {
+  /* no styles */
+}
+/*
+ * Tabs
+ */
+
+.tabs {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  /* no styles */
+}
+
+.tabs__tab {
+  /* no styles */
+}
+
+.tabs__tab--is-active {
   /* no styles */
 }

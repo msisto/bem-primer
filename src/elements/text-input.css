@@ -1,0 +1,44 @@
+/*
+ * Text inputs (includes textarea)
+ */
+
+.text-input {
+  /* no styles */
+}
+
+.text-input--hover,
+.text-input:hover {
+  /* no styles */
+}
+
+.text-input--focus
+.text-input:focus {
+  /* no styles */
+}
+
+.text-input--disabled,
+.text-input:disabled {
+  /* no styles */
+}
+
+.text-input--valid,
+.text-input:valid {
+  /* no styles */
+}
+
+.text-input--invalid,
+.text-input:invalid {
+  /* no styles */
+}
+
+.text-input--number {
+  /* no styles */
+}
+
+.text-input--password {
+  /* no styles */
+}
+
+.text-input--phone {
+  /* no styles */
+}
