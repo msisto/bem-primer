@@ -79,6 +79,14 @@
 .h6 {
   /* no styles */
 }
+.list {
+  /* no styles */
+}
+
+.list--unstyled {
+  /* no styles */
+  list-style-type: none;
+}
 .radio {
   /* no styles */
   -webkit-appearance: none;
