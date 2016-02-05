@@ -147,15 +147,19 @@
   /* no styles */
 }
 
-.table__head {
-  /* no styles */
-}
-
-.table__heading {
+.table__header {
   /* no styles */
 }
 
 .table__body {
+  /* no styles */
+}
+
+.table__footer {
+  /* no styles */
+}
+
+.table__heading {
   /* no styles */
 }
 
