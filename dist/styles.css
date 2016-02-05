@@ -91,6 +91,14 @@
   /* no styles */
 }
 
+.form__fieldset--inline {
+  /* no styles */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .form__field {
   /* no styles */
 }

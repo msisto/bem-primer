@@ -10,6 +10,11 @@
   /* no styles */
 }
 
+.form__fieldset--inline {
+  /* no styles */
+  display: flex;
+}
+
 .form__field {
   /* no styles */
 }
