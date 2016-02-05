@@ -139,6 +139,33 @@
 .select:disabled {
   /* no styles */
 }
+.table {
+  /* no styles */
+}
+
+.table__caption {
+  /* no styles */
+}
+
+.table__head {
+  /* no styles */
+}
+
+.table__body {
+  /* no styles */
+}
+
+.table__row {
+  /* no styles */
+}
+
+.table__cell {
+  /* no styles */
+}
+
+.table__cell--heading {
+  /* no styles */
+}
 .text-input {
   /* no styles */
 }
