@@ -1,3 +1,11 @@
+/*
+ * Common HTML elements
+ */
+
+/*
+ * Buttons
+ */
+ 
 .button {
   /* no styles */
 }
@@ -21,6 +29,10 @@
 .button:disabled {
   /* no styles */
 }
+/*
+ * Checkbox inputs
+ */
+
 .checkbox {
   /* no styles */
   -webkit-appearance: none;
@@ -47,6 +59,10 @@
 .checkbox:disabled {
   /* no styles */
 }
+/*
+ * Text headings
+ */
+
 .h1,
 .h2,
 .h3,
@@ -79,6 +95,10 @@
 .h6 {
   /* no styles */
 }
+/*
+ * Forms
+ */
+ 
 .form {
   /* no styles */
 }
@@ -106,6 +126,10 @@
 .form__actions {
   /* no styles */
 }
+/*
+ * Lists
+ */
+
 .list {
   /* no styles */
 }
@@ -114,6 +138,10 @@
   /* no styles */
   list-style-type: none;
 }
+/*
+ * Radio inputs
+ */
+
 .radio {
   /* no styles */
   -webkit-appearance: none;
@@ -140,6 +168,10 @@
 .radio:disabled {
   /* no styles */
 }
+/*
+ * Select menus
+ */
+
 .select {
   /* no styles */
   -webkit-appearance: none;
@@ -166,6 +198,10 @@
 .select:disabled {
   /* no styles */
 }
+/*
+ * Tables
+ */
+
 .table {
   /* no styles */
 }
@@ -197,6 +233,10 @@
 .table__cell {
   /* no styles */
 }
+/*
+ * Text inputs (includes textarea)
+ */
+
 .text-input {
   /* no styles */
 }
@@ -220,6 +260,7 @@
 .text-input:valid {
   /* no styles */
 }
+
 .textarea {
   /* no styles */
 }
