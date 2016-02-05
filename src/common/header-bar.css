@@ -1,0 +1,30 @@
+/*
+ * Header bar (iOS style)
+ */
+
+.header-bar {
+  display: flex;
+  position: fixed;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: 0
+  /* no styles */
+}
+
+.header-bar__title {
+  flex: 1;
+  /* no styles */
+}
+
+.header-bar__action {
+  /* no styles */
+}
+
+.header-bar__action--left {
+  /* no styles */
+}
+
+.header-bar__action--right {
+  /* no styles */
+}

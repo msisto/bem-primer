@@ -19,5 +19,6 @@
 
 @import 'common/avatar';
 @import 'common/comment';
+@import 'common/header-bar';
 @import 'common/modal';
 @import 'common/tabs';
