@@ -1,0 +1,28 @@
+/*
+ * Form
+ */
+
+.form {
+  /* no styles */
+}
+
+.form__label {
+  /* no styles */
+}
+
+.form__fieldset {
+  /* no styles */
+}
+
+.form__fieldset--inline {
+  /* no styles */
+  display: flex;
+}
+
+.form__field {
+  /* no styles */
+}
+
+.form__actions {
+  /* no styles */
+}
