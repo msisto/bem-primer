@@ -1,0 +1,16 @@
+/*
+ * Tabs
+ */
+
+.tabs {
+  display: flex;
+  /* no styles */
+}
+
+.tabs__tab {
+  /* no styles */
+}
+
+.tabs__tab--active {
+  /* no styles */
+}

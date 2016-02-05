@@ -337,3 +337,22 @@
 .comment__footer {
   /* no styles */
 }
+/*
+ * Tabs
+ */
+
+.tabs {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  /* no styles */
+}
+
+.tabs__tab {
+  /* no styles */
+}
+
+.tabs__tab--active {
+  /* no styles */
+}
