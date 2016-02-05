@@ -151,6 +151,10 @@
   /* no styles */
 }
 
+.table__heading {
+  /* no styles */
+}
+
 .table__body {
   /* no styles */
 }
@@ -160,10 +164,6 @@
 }
 
 .table__cell {
-  /* no styles */
-}
-
-.table__cell--heading {
   /* no styles */
 }
 .text-input {
