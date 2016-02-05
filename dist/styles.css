@@ -1,5 +1,5 @@
 /*
- * Common HTML elements
+ * Core HTML elements
  */
 
 /*
@@ -234,6 +234,28 @@
   /* no styles */
 }
 /*
+ * Textarea
+ */
+ 
+.textarea {
+  /* no styles */
+}
+
+.textarea--hover,
+.textarea:hover {
+  /* no styles */
+}
+
+.textarea--focus
+.textarea:focus {
+  /* no styles */
+}
+
+.textarea--disabled,
+.textarea:disabled {
+  /* no styles */
+}
+/*
  * Text inputs (includes textarea)
  */
 
@@ -261,21 +283,57 @@
   /* no styles */
 }
 
-.textarea {
+/*
+ * Common UI patterns
+ */
+
+/*
+ * Avatars
+ */
+
+.avatar {
   /* no styles */
 }
 
-.textarea--hover,
-.textarea:hover {
+.avatar--small {
   /* no styles */
 }
 
-.textarea--focus
-.textarea:focus {
+.avatar--large {
+  /* no styles */
+}
+/*
+ * Comment
+ */
+
+.comment {
+  /* no styles */
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.comment__photo {
   /* no styles */
 }
 
-.textarea--disabled,
-.textarea:disabled {
+.comment__content {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  /* no styles */
+}
+
+.comment__header {
+  /* no styles */
+}
+
+.comment__body {
+  /* no styles */
+}
+
+.comment__footer {
   /* no styles */
 }

@@ -1,13 +1,21 @@
 /*
- * Common HTML elements
+ * Core HTML elements
  */
 
-@import 'buttons';
-@import 'checkbox';
-@import 'headings';
-@import 'forms';
-@import 'lists';
-@import 'radio';
-@import 'select';
-@import 'tables';
-@import 'text-inputs';
+@import 'core/button';
+@import 'core/checkbox';
+@import 'core/heading';
+@import 'core/form';
+@import 'core/list';
+@import 'core/radio';
+@import 'core/select';
+@import 'core/table';
+@import 'core/textarea';
+@import 'core/text-input';
+
+/*
+ * Common UI patterns
+ */
+
+@import 'common/avatar';
+@import 'common/comment';
