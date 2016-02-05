@@ -1,0 +1,32 @@
+/*
+ * Modal
+ */
+
+.modal {
+  position: absolute;
+    top: 0;
+    left: 0;
+  transform:
+    translateX(-50%)
+    translateY(-50%);
+}
+
+.modal__inner {
+  /* no styles */
+}
+
+.modal__header {
+  /* no styles */
+}
+
+.modal__content {
+  /* no styles */
+}
+
+.modal__footer {
+  /* no styles */
+}
+
+.modal__close {
+  /* no styles */
+}
