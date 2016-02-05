@@ -4,12 +4,15 @@
 
 .header-bar {
   display: flex;
+  /* no styles */
+}
+
+.header-bar--fixed {
   position: fixed;
     top: 0;
     right: 0;
     bottom: auto;
     left: 0
-  /* no styles */
 }
 
 .header-bar__title {
