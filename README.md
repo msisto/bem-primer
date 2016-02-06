@@ -4,4 +4,4 @@ Unstyled, pre-defined classes for your next project.
 - Low specificity
 - Semantic
 - Lightly structured
-- Lightly vendor-prefixed
+- [Future syntax](https://github.com/MoOx/postcss-cssnext)
