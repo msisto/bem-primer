@@ -1,6 +1,7 @@
 # BEM Primer
-Unstyled, pre-defined BEM classes for your next project.
+Unstyled, pre-defined classes for your next project.
 
 - Low specificity
 - Semantic
+- Lightly structured
 - Lightly vendor-prefixed
