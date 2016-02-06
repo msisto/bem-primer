@@ -1,0 +1,21 @@
+/*
+ * Navbar
+ */
+
+.navbar {
+  display: flex;
+  /* no styles */
+}
+
+.navbar--vertical {
+  flex-direction: column;
+}
+
+.navbar__item {
+  /* no styles */
+}
+
+.navbar__link {
+  display: block;
+  /* no styles */
+}
