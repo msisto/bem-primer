@@ -1,7 +1,7 @@
-# BEM Primer
-Unstyled, pre-defined classes for your next project.
+# bem-primer
+unstyled classes and markup for your next project
 
-- Low specificity
-- Semantic
-- Lightly structured
-- [Future syntax](https://github.com/MoOx/postcss-cssnext)
+- semantic
+- low-specificity
+- [bem](http://bem.info) style classes
+- blank html templates
