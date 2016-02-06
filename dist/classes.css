@@ -494,6 +494,37 @@
   display: block;
 }
 /*
+ * Pagination
+ */
+
+.pagination {
+  /* no styles */
+}
+
+.pagination__option {
+  /* no styles */
+}
+
+.pagination__option--first-page {
+  /* no styles */
+}
+
+.pagination__option--previous-page {
+  /* no styles */
+}
+
+.pagination__option--curent-page {
+  /* no styles */
+}
+
+.pagination__option--next-page {
+  /* no styles */
+}
+
+.pagination__option--last-page {
+  /* no styles */
+}
+/*
  * Tabs
  */
 

@@ -23,4 +23,5 @@
 @import 'common/menu';
 @import 'common/modal';
 @import 'common/navbar';
+@import 'common/pagination';
 @import 'common/tabs';
