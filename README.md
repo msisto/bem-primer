@@ -4,15 +4,15 @@ Unstyled classes and markup for your next project.
 - Semantic
 - Low-specificity
 - [BEM](http://bem.info) style classes
-- Blank html templates
+- Blank HTML templates
 
 ## Purpose
 This is primarily a toolkit to help speed up personal project development. Feel free to use, distribute or contribute back to the project if you are so inclined.
 
-## Styles
-There are two types of styles: core and common.
-- `/core` styles are for the nuts-and-bolts elements that are native to the browser. Things like buttons, checkboxes, text inputs etc.
-- `/common` styles are relatively conventional UI patterns like comments, navbars, modals etc.
+## Classes
+There are two types of class: **core** and **common**.
+- Core classes are for the nuts-and-bolts elements that are native to the browser. Things like buttons, checkboxes, text inputs etc.
+- Common classes are for relatively conventional UI patterns like comments, navbars, modals etc.
 
 ## Templates
 Quick copy-and-paste markup with appropriate classes already applied.
