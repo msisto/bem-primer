@@ -19,3 +19,19 @@
   display: block;
   /* no styles */
 }
+
+.navbar__item--dropdown {
+  position: relative;
+}
+
+.navbar__dropdown {
+  display: none;
+  position: absolute;
+    top: 100%;
+    left: 0;
+  /* no styles */
+}
+
+.navbar__dropdown--is-visible {
+  display: block;
+}

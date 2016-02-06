@@ -20,5 +20,7 @@
 @import 'common/avatar';
 @import 'common/comment';
 @import 'common/header-bar';
+@import 'common/menu';
 @import 'common/modal';
+@import 'common/navbar';
 @import 'common/tabs';

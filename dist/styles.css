@@ -403,6 +403,18 @@
   /* no styles */
 }
 /*
+ * Menu
+ */
+ 
+.menu {
+  /* no styles */
+}
+
+.menu__link {
+  display: block;
+  /* no styles */
+}
+/*
  * Modal
  */
 
@@ -436,6 +448,50 @@
 
 .modal__close {
   /* no styles */
+}
+/*
+ * Navbar
+ */
+
+.navbar {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  /* no styles */
+}
+
+.navbar--vertical {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.navbar__item {
+  /* no styles */
+}
+
+.navbar__link {
+  display: block;
+  /* no styles */
+}
+
+.navbar__item--dropdown {
+  position: relative;
+}
+
+.navbar__dropdown {
+  display: none;
+  position: absolute;
+    top: 100%;
+    left: 0;
+  /* no styles */
+}
+
+.navbar__dropdown--is-visible {
+  display: block;
 }
 /*
  * Tabs
