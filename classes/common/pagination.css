@@ -4,32 +4,34 @@
 
 .pagination {
   /* no styles */
+  display: flex;
 }
 
 .pagination__option {
   /* no styles */
 }
 
-.pagination__option--first-page {
+.pagination__option--first {
   /* no styles */
 }
 
-.pagination__option--previous-page {
+.pagination__option--previous {
   /* no styles */
 }
 
-.pagination__option--curent-page {
+.pagination__option--current {
   /* no styles */
 }
 
-.pagination__option--next-page {
+.pagination__option--next {
   /* no styles */
 }
 
-.pagination__option--last-page {
+.pagination__option--last {
   /* no styles */
 }
 
 .pagination__link {
   /* no styles */
+  display: block;
 }

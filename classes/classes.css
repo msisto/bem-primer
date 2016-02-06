@@ -18,6 +18,7 @@
  */
 
 @import 'common/avatar';
+@import 'common/breadcrumb';
 @import 'common/comment';
 @import 'common/header-bar';
 @import 'common/menu';

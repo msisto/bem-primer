@@ -1,0 +1,21 @@
+/*
+ * Breadcrumb
+ */
+
+.breadcrumb {
+  /* no styles */
+  display: flex;
+}
+
+.breadcrumb__step {
+  /* no styles */
+}
+
+.breadcrumb__step--current {
+  /* no styles */
+}
+
+.breadcrumb__link {
+  /* no styles */
+  display: block;
+}
