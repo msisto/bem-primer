@@ -3,7 +3,7 @@ var postcss = require('gulp-postcss');
 var cssnext = require("gulp-cssnext")
 
 gulp.task('default', function() {
-  gulp.src("./src/styles.css")
+  gulp.src("./styles/styles.css")
     .pipe(cssnext())
     .pipe(gulp.dest("./dist"))
 });
