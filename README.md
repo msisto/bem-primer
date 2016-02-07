@@ -38,6 +38,3 @@ bem-primer uses [cssnext](http://cssnext.io/) and [Gulp](http://gulpjs.com/) for
 - Run `cd bem-primer`
 - Run `npm install` in the project directory
 - Run `gulp` to compile styles to `/dist`
-
-## To-dos
-- Drop cssnext, use [postcss-import](https://github.com/postcss/postcss-import) and [Autoprefixer](https://www.npmjs.com/package/autoprefixer)
