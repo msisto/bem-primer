@@ -32,7 +32,7 @@ Quick copy-and-paste markup with appropriate classes already applied.
 ```
 
 ## Development
-bem-primer uses [cssnext](http://cssnext.io/) for `@import` support and automated vendor prefixes
+bem-primer uses [cssnext](http://cssnext.io/) and [Gulp](http://gulpjs.com/) for `@import` support and automated vendor prefixes.
 
 - Run `git clone git@github.com:msisto/bem-primer.git`
 - Run `cd bem-primer`
