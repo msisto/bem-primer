@@ -17,7 +17,7 @@ There are two types of class: **core** and **common**.
 ## Templates
 Quick copy-and-paste markup with appropriate classes already applied.
 
-#### e.g [comment.html](https://github.com/msisto/bem-primer/blob/master/templates/comment.html)
+#### e.g. [comment.html](https://github.com/msisto/bem-primer/blob/master/templates/comment.html)
 ```
 <div class="comment">
   <div class="comment__avatar">
